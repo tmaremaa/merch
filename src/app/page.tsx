@@ -7,7 +7,7 @@ import Layout from '../components/layout/Layout'
 const products = [
   {
     id: 1,
-    name: "Classic White T-Shirt",
+    name: "Classic Black T-Shirt",
     price: 29.99,
     description: "Engineered for everyday excellence",
     image: "/images/product1.png",
